@@ -16,6 +16,9 @@
 - Display the replicated message.
 - Support sending location.
 
+توضیحات [فارسی](https://github.com/Sepehr0Day/pyexport/blob/main/README-FA.md).
+
+
 **By Sepehr0Day**
 
 You can contact me on Telegram:
